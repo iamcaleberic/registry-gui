@@ -1,0 +1,6 @@
+{
+    "registry_registry_url": "https://registry.local:8443",
+    "app": {
+        "authenticated": false
+    }
+}
